@@ -44,11 +44,7 @@ function resetGame(){
 		if (symbol != "") {
 			square.innerHTML = "";
 		}
-
-        setTimeout(() => {
-            board[position] = "";
-
-        })
+        board[position] = "";
 	});
 
     playerTime = 0;

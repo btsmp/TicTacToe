@@ -9,7 +9,7 @@ h1{
 .square{
     width: 100px;
     height: 100px;
-    background-color: beige;
+    background-color: black;
     border: 1px solid gray;
     display: inline-block;
 }
